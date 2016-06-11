@@ -2,8 +2,8 @@
 This is the repository for all 3D modelling files. The files are:
 
 **Main frame**
-testHET
-WHAT THE FUCK
+
+Hei
 
 2. Exterior frame:
 
