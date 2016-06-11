@@ -2,13 +2,15 @@
 This is the repository for all 3D modelling files. The files are:
 
 **Main frame**
-
 Hei
 
-2. Exterior frame:
+**Exterior frame**
+HEAH
 
-3. Cover:
+**Cover**
+HELHA
 
-4. LED bracket:
+**LED bracket**
+HLALE
 
 > Created by Geir André Engesbak
