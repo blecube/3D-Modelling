@@ -2,21 +2,19 @@
 This is the repository for all 3D modelling files. The files are:
 
 ####Main frame
-    Hei
+This is the inner frame, where all PCB parts and wires are. All other 3D parts locks into this part
 
 
 ####Exterior frame
-HEAH
+Mounting bracket for the cover. This part sits outside the mainframe and enables the cover to fit.
 
 
-3. **Cover**
+####Cover
+The cover is the part of the cube where the plexi glass is mounted. This part also features an LED and a mechanical button.
 
-HELHA
 
-
-4. **LED bracket**
-
-HLALE
+####LED bracket
+This part serves as the bracket for LEDs.
 
 
 > Created by Geir André Engesbak
